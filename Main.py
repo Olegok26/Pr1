@@ -1,1 +1,1 @@
-2223
+print('Hello world')
